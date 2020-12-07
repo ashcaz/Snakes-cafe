@@ -1,4 +1,5 @@
 
+
 #Variables for menu
 menu = {
   'appetizers': ['Wings', 'Cookies', 'Spring Rolls'],

@@ -10,4 +10,4 @@
   - The > character represents user input line and should be printed out with a trailing space.
 
 
-[Pull Request](https://github.com/ashcaz/Snakes-cafe/pull/1)
+[Pull Request](https://github.com/ashcaz/Snakes-cafe/pull/2)
