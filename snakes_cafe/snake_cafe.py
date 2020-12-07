@@ -64,6 +64,3 @@ create_menu_sections('Drinks', menu['drinks'])
 create_menu_header(order_question)
 
 order_tracker()
-
-
-  
